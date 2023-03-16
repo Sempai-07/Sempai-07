@@ -12,6 +12,7 @@ Here are some of the projects I have worked on:
 - [Discord Sempai](https://github.com/Sempai-07/discord-sempai)
 - [Database Sempai](https://github.com/Sempai-07/database-sempai)
 - [Quotes Naruto](https://github.com/Sempai-07/quotes-naruto)
+- [Autokills](https://github.com/Sempai-07/autokills)
 
 # Interests
 In my free time, I love to write code and experiment with new technologies. I am also interested in music, which helps me to stay creative and motivated.
