@@ -1,5 +1,5 @@
 # Hello there! 👋
-My name is Sempai, and I am a beginning web developer who is currently learning JavaScript, NodeJS, and TypeScript. My current focus is on developing packages and improving my coding skills.
+My name is Sempai, and I am a beginning web developer who is currently learning JavaScript, NodeJS, and TypeScript. Improving my coding skills.
 
 # Skills
 - Languages: `JavaScript`
