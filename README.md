@@ -10,7 +10,7 @@ My name is Sempai, and I am a beginning web developer who is currently learning 
 Here are some of the projects I have worked on:
 
 - [Telegramsjs](https://github.com/Sempai-07/telegramsjs) - [![NPM Downloads](https://img.shields.io/npm/dt/telegramsjs.svg?maxAge=3600)](https://www.npmjs.com/package/telegramsjs)
-- 
+
 - [Database Sempai](https://github.com/Sempai-07/database-sempai) - [![NPM Downloads](https://img.shields.io/npm/dt/database-sempai.svg?maxAge=3600)](https://www.npmjs.com/package/database-sempai)
 
 
