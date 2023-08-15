@@ -16,3 +16,5 @@ Here are some of the projects I have worked on:
 
 # 🥱 Interests
 In my free time, I love to write code and experiment with new technologies. I am also interested in music, which helps me to stay creative and motivated.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sempai-07&show_icons=true&theme=dark)
