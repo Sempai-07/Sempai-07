@@ -2,8 +2,7 @@
 My name is Sempai, and I am a beginning web developer who is currently learning JavaScript, NodeJS, and TypeScript.
 
 # 🫣 Skills
-- Languages: `JavaScript`
-- Liberia: `NodeJS`,  `TypeScript`
+- Languages: `JavaScript` (`NodeJS`,  `TypeScript`)
 - Tools: `GitHub`, `Npm`
 
 # 📜 Projects
