@@ -14,6 +14,6 @@ Here are some of the projects I have worked on:
 
 
 # 🥱 Interests
-😕
+- [My Website](https://sempa1js.web.app)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sempai-07&show_icons=true&theme=dark)
